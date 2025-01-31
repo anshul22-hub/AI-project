@@ -65,7 +65,7 @@ npm run dev
 
 This application is **live on Vercel**! 🚀  
 
-🔗 **Live Version:** [Your Vercel Deployment Link]  
+🔗 **Live Version:** [https://ai-project-sable.vercel.app/]  
 
 To deploy your own version:  
 ```bash
